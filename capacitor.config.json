@@ -1,0 +1,9 @@
+{
+  "appId": "com.devabu.cozymerge",
+  "appName": "Cozy Merge",
+  "webDir": "www",
+  "backgroundColor": "#fff3e2",
+  "android": {
+    "allowMixedContent": false
+  }
+}
